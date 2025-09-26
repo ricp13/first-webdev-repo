@@ -1,4 +1,4 @@
 this is my first file
 
 
-hello world
+print("hello world")
